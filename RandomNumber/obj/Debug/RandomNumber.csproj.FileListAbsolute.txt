@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ProjectWithLib\RandomNumber\bin\Debug\RandomNumber.dll
+C:\Users\User\source\repos\ProjectWithLib\RandomNumber\bin\Debug\RandomNumber.pdb
+C:\Users\User\source\repos\ProjectWithLib\RandomNumber\obj\Debug\RandomNumber.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectWithLib\RandomNumber\obj\Debug\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectWithLib\RandomNumber\obj\Debug\RandomNumber.dll
+C:\Users\User\source\repos\ProjectWithLib\RandomNumber\obj\Debug\RandomNumber.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\bin\Debug\ProjectWithLib.exe.config
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\bin\Debug\ProjectWithLib.exe
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\bin\Debug\ProjectWithLib.pdb
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\bin\Debug\RandomNumber.dll
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\bin\Debug\RandomNumber.pdb
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\obj\Debug\ProjectWithLib.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\obj\Debug\ProjectWithLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\obj\Debug\ProjectWithLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\obj\Debug\ProjectWithLib.csproj.CopyComplete
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\obj\Debug\ProjectWithLib.exe
+C:\Users\User\source\repos\ProjectWithLib\ProjectWithLib\obj\Debug\ProjectWithLib.pdb
